@@ -11,7 +11,9 @@ Some of the results:
 
 ## Related work
 Training-free layout control with cross-attention guidance. 
+
 Diffusion self-guidance for controllable image generation. arXiv preprint arXiv:2306.00986, 2023.
+
 Prompt-to-prompt image editing with cross-attention control. In ICLR, 2023.
 
 
