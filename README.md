@@ -9,6 +9,9 @@ Some of the results:
 
 
 
+The .ipynb contains the pipeline and the edited unet is in my_model
+
+
 ## Related paper
 Training-free layout control with cross-attention guidance. 
 
