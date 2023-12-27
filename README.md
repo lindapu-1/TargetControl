@@ -5,8 +5,9 @@ This implementation aims to control one target that appeared in the prompt with 
 By extract features from Cross Attention layers as guidance, **it works without any training or finetuning**. 
 
 
-##Files
+## Files
 The .ipynb contains the pipeline and the edited unet is in my_model
+
 Please see the details in Poster.pdf
 
 Some of the results are on the right side:
