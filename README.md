@@ -4,7 +4,8 @@ This implementation aims to control one target that appeared in the prompt with 
 
 By extract features from Cross Attention layers as guidance, it works withhout any training or finetuning. 
 
-Please see the detailed in Poster.pdf.
+Please see the detailed in Poster.pdf
+
 Some of the results:
 <img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/374e24be-e02f-4787-9fd0-62b076c1b148">
 
