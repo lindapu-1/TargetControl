@@ -4,7 +4,10 @@ This implementation aims to control one target that appeared in the prompt with 
 
 By extract features from Cross Attention layers as guidance, **it works without any training or finetuning**. 
 
-Please see the detailed in Poster.pdf
+
+##Files
+The .ipynb contains the pipeline and the edited unet is in my_model
+Please see the details in Poster.pdf
 
 Some of the results are on the right side:
 <img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/374e24be-e02f-4787-9fd0-62b076c1b148">
@@ -12,7 +15,7 @@ Some of the results are on the right side:
 
 
 
-The .ipynb contains the pipeline and the edited unet is in my_model
+
 
 
 ## Related paper
