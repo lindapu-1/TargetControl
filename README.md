@@ -6,7 +6,7 @@ By extract features from Cross Attention layers as guidance, it works withhout a
 
 Please see the detailed in Poster.pdf
 
-Some of the results:
+Some of the results are on the right side:
 <img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/374e24be-e02f-4787-9fd0-62b076c1b148">
 
 
