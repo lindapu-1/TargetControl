@@ -10,6 +10,7 @@ Given one **ONE** reference image, the method can almost retain the details of t
 
 
 The method can also be applied to features other than the concept appearance, such as position, size, and so on. The only difference is the design of loss function (energy function).
+
 <img width="560" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/8df5ef4d-30d7-4cd3-a79d-47c5af3c555b">
 
 
