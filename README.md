@@ -6,31 +6,21 @@ This implementation is designed to control a specific target that appears in the
 
 ## Experiments & Results
 Given one **ONE** reference image, the method can almost retain the details of the target concept.
-<img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/c7987741-ca17-445e-b0e5-e968f7725308">
+<img width="560" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/06f95ae7-efe2-4d02-9e0c-e27aa18ed3af">
+
 
 The method can also be applied to features other than the concept appearance, such as position, size, and so on. The only difference is the design of loss function (energy function).
-<img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/fffdcce6-061e-4ade-b0d7-4c8c1d5a91a2">
+<img width="560" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/8df5ef4d-30d7-4cd3-a79d-47c5af3c555b">
+
 
 It is also easy to learn** multiple reference image on seperate targets**, and combine them into one generated image.
-<img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/96e93e04-aac9-40f0-bd69-46685077d1fb">
+<img width="560" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/b25fc7a5-5c28-473e-8425-40d7fd7d0f49">
 
-The method is compatible with other customization methods, such as Textual Inversion, to control the output from different levels. 
-<img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/7dd70d5d-dbea-4884-a825-0f9a49c7d21a">
 
 
 ## How to use
 The .ipynb contains the pipeline and the edited unet is in my_model. Please load the Unet from my_model directory, rather than the diffuser package. 
-
 Please see the details in Poster.pdf
-
-Some of the results are on the right side:
-<img width="776" alt="image" src="https://github.com/lindapu-1/TargetControl/assets/97086254/374e24be-e02f-4787-9fd0-62b076c1b148">
-
-
-
-
-
-
 
 ## Related paper
 The code is based on the implementation of the following papers: 
